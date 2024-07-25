@@ -1,5 +1,5 @@
 # Desafio SPD 
-Este repositório contém três algoritmos implementados em JavaScript, proposto pelo projeto:
+Este repositório contém três algoritmos implementados em JavaScript, proposto pelo projeto SPD:
 * Two sum
 * Roman to integer
 * Remove elements
